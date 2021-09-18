@@ -10,4 +10,6 @@ Before running the notebook, you must install a few packages. Namely:
 * selenium
 * pandas
 
+Additionally, you must define the path to your chromedriver. If not already installed, you can get it from https://chromedriver.chromium.org/downloads
+
 You can then set the mandatory variables "searchterm" and "region" as well as the optional filter "search_distance". 
