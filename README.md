@@ -13,3 +13,6 @@ Before running the notebook, you must install a few packages. Namely:
 Additionally, you must define the path to your chromedriver. If not already installed, you can get it from https://chromedriver.chromium.org/downloads
 
 You can then set the mandatory variables "searchterm" and "region" as well as the optional filter "search_distance". 
+
+## Legal notice
+PLease make yourself familiar with local law and the terms and conditions of the service you want to scrape before doing so. If you are acting on behalf of GelbeSeiten and do not approve this notebook, please get in touch with me.
